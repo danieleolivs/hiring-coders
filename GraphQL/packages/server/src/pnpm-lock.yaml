@@ -1,0 +1,19 @@
+lockfileVersion: 5.4
+
+specifiers:
+  esn: ^2.0.27
+
+devDependencies:
+  esn: 2.0.27
+
+packages:
+
+  /esn/2.0.27:
+    resolution: {integrity: sha512-PRDpH42MZgz8ux227G8URv3pKTGSUclpCNLpmE4Isnswx17kWjeBCNraDzETN9UmqktfZbArGipyAIN4IXcvEA==}
+    dependencies:
+      moment: 2.29.3
+    dev: true
+
+  /moment/2.29.3:
+    resolution: {integrity: sha512-c6YRvhEo//6T2Jz/vVtYzqBzwvPT95JBQ+smCytzf7c50oMZRsR/a4w88aD34I+/QVSfnoAnSBFPJHItlOMJVw==}
+    dev: true

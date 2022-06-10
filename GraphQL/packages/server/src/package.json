@@ -1,0 +1,16 @@
+{
+  "name": "@dev-demands/server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esn ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esn": "^2.0.27"
+  }
+}
